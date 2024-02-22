@@ -3,8 +3,8 @@
 ####################
 # About: This script shows the list of collaborators in the github repo
 #
-# Input: 1) 
-#	 2)
+# Input/Arguments: 1) organisation/username
+#	 	   2) repo
 #
 # Steps: 1) export username="your_username"
 #	 2) export token="your_token"
